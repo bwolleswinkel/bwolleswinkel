@@ -1,6 +1,13 @@
 **Bart Wolleswinkel**
 
-👋 Hi, I’m @bwolleswinkel, a PhD candidate in Secure Networked Control Systems at Delft University of Technology.
+👋 Hi, I’m `@bwolleswinkel`, PhD candidate in Secure Networked Control Systems at Delft University of Technology.
+
+- 📍: Rotterdam, The Netherlands
+- 🎓: MSc. Systems and Control
+- 🏅: I care about code quality and user-friendliness
+- 🛠️: Currently developing the following scientific python packages
+    - `ncsim` | Control simulation toolbox for networked control systems
+    - `geopes` | Numeric type emulation for polytopes, ellipsoids, and subspaces
 
 <!---
 bwolleswinkel/bwolleswinkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
