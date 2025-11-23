@@ -2,7 +2,7 @@
 
 👋 Hi, I’m `@bwolleswinkel`, PhD candidate in Secure Networked Control Systems at Delft University of Technology.
 
-- 📍: Rotterdam, The Netherlands
+- 📍: Delft, The Netherlands
 - 🎓: MSc. Systems and Control
 - 🏅: I care about code quality and user-friendliness
 - 🛠️: Currently developing the following scientific python packages
