@@ -1,6 +1,6 @@
 **Bart Wolleswinkel**
 
-👋 Hi, I’m `@bwolleswinkel`, PhD candidate in Secure Networked Control Systems at Delft University of Technology.
+👋 Hi, I’m `@bwolleswinkel`, PhD candidate in Secure Networked Control Systems at Delft University of Technology
 
 - 📍: Delft, The Netherlands
 - 🎓: MSc. Systems and Control
