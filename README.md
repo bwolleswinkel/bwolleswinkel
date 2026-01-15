@@ -4,7 +4,7 @@
 
 - 📍: Delft, The Netherlands
 - 🎓: MSc. Systems and Control
-- 🏅: I care about code quality and user-friendliness
+- 🏅: I care about code quality and user-centered design
 - 🛠️: Currently developing the following scientific python packages
     - `ncsim` | Control simulation toolbox for networked control systems
     - `geopes` | Numeric type emulation for polytopes, ellipsoids, and subspaces
