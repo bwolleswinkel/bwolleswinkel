@@ -7,7 +7,7 @@
 - 🏅: I care about code quality and user-centered design
 - 🛠️: Currently developing the following scientific python packages
     - `ncsim` | Control simulation toolbox for Networked Control Systems (NCSs)
-    - `geopes` | Numerical operations on polytopes, ellipsoids, and subspaces
+    - `numpes` | Numerical operations on polytopes, ellipsoids, and subspaces
 
 <!---
 bwolleswinkel/bwolleswinkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
