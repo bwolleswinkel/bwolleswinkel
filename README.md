@@ -6,8 +6,8 @@
 - 🎓: MSc. Systems and Control
 - 🏅: I care about code quality and user-centered design
 - 🛠️: Currently developing the following scientific Python packages:
-    - `ncsim` | Control simulation toolbox for Networked Control Systems (NCSs)
     - `numpes` | Numerical operations on polytopes, ellipsoids, and subspaces
+    - `ncsim` | Control simulation toolbox for Networked Control Systems (NCSs)
 
 <!---
 bwolleswinkel/bwolleswinkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
